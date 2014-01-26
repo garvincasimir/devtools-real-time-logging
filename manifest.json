@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Real Time Logger",
+  "description": "This extension allows applications to send logs to client without embedded scripts",
+  "version": "1.0",
+  "background":{
+  	"persistent": true,
+    "page": "lib/system/background.html"
+  },
+  "devtools_page": "lib/system/devtools.html",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ]
+  
+}
+
