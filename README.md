@@ -4,7 +4,7 @@ Devtools real time logging
 A chrome devtools extension which displays logging and debug information in a dedicated devtools tab. 
 Great for apps such as SPAs which rely heavily on ajax to function.
 
-![alt text](http://garvincasimir.files.wordpress.com/2014/01/real-time-plugin.png "Plugin overview")
+![alt text](http://garvincasimir.files.wordpress.com/2014/01/real-time-plugin-e1390861476494.png "Plugin overview")
 
 Install
 ==========================
