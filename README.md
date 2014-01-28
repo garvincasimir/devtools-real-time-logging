@@ -23,12 +23,12 @@ This plugin is still in the Alpha stages but you can easily see how it works by 
 
 Plugin dependencies
 ==========================
-[Require.js : Dependency injection](https://github.com/jrburke/requirejs)
-[When.js : Promises](https://github.com/cujojs/when)
-[Highlight.js : Syntax highlighting](http://highlightjs.org/)
-[Signalr : Real time communication](http://www.asp.net/signalr)
-[Jquery: Required by Signalr](http://jquery.com/)
-[Socket.io : Real time communication](http://socket.io/)
+* [Require.js : Dependency injection](https://github.com/jrburke/requirejs)
+* [When.js : Promises](https://github.com/cujojs/when)
+* [Highlight.js : Syntax highlighting](http://highlightjs.org/)
+* [Signalr : Real time communication](http://www.asp.net/signalr)
+* [Jquery: Required by Signalr](http://jquery.com/)
+* [Socket.io : Real time communication](http://socket.io/)
 
 
 
