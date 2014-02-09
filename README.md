@@ -16,7 +16,9 @@ This plugin is still in the Alpha stages but you can easily see how it works by 
   2. Ensure that the Developer mode checkbox in the top right-hand corner is checked.
   3. Click "Load unpacked extension".
   4. Select the directory containing the cloned repo
-3. Once the plugin is installed visit the test azure website: [real-time-logging.azurewebsites.net](http://real-time-logging.azurewebsites.net/)
+3. Once the plugin is installed 
+  * visit the test azure website: [real-time-logging.azurewebsites.net](http://real-time-logging.azurewebsites.net/)
+  * Or clone and run the project [EF6 Logger Sample](https://github.com/garvincasimir/EF6-Logger-Sample)
 4. Open Chrome dev tools in the tab from step #3
 5. Click on the "Real Time Log" button in the Chrome dev tools window
 6. Click on the two buttons on the web page and you should see sql statements in the dev tools window.
